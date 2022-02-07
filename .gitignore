@@ -1,0 +1,9 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/app/WebApi/app/.vs/
+/app/WebApi/app/MyApp.Core/bin/Debug/net6.0
+/app/WebApi/app/MyApp.Core/obj
+/app/WebApi/app/MyApp.WebApi/bin/x64/Debug/net6.0
+/app/WebApi/app/MyApp.WebApi/obj
