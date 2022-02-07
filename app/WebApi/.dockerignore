@@ -1,0 +1,5 @@
+app/MyApp.WebApi/bin
+app/MyApp.WebApi/obj
+
+app/MyApp.Core/bin
+app/MyApp.Core/obj
